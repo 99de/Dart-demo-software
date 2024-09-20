@@ -3,6 +3,4 @@
 <h align="center">Good luck on development!</h>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ThreadedDev/Dart-demo-software)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ThreadedDev/Dart-demo-software)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ThreadedDev/Dart-demo-software)
-![GitHub last commit](https://img.shields.io/github/last-commit/ThreadedDev/Dart-demo-software)
